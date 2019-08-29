@@ -1,3 +1,5 @@
+"use strict";
+exports.__esModule = true;
 var viagem = /** @class */ (function () {
     function viagem(tpgasto, vlmedia, rdveiculo) {
         this.tpgasto = tpgasto;
@@ -12,3 +14,4 @@ var viagem = /** @class */ (function () {
     };
     return viagem;
 }());
+exports.viagem = viagem;

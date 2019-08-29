@@ -1,4 +1,4 @@
-class viagem{
+export class viagem{
    
     constructor( public tpgasto:number
                 ,public vlmedia:number
