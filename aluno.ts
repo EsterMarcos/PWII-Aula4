@@ -1,4 +1,4 @@
- class aluno{
+  export class aluno{
             
  constructor( public nome:string){}
         exibir(){ 
@@ -6,3 +6,4 @@
             }
 
 }
+
